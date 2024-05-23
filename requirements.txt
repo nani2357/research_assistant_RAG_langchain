@@ -1,0 +1,9 @@
+beautifulsoup4
+requests
+openai
+langchain_community
+langchain
+python-dotenv
+duckduckgo-search
+
+
